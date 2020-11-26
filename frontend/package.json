@@ -14,6 +14,7 @@
     "react-alice-carousel": "^2.0.2",
     "react-credit-cards": "^0.8.3",
     "react-dom": "^16.13.1",
+    
     "react-payment-card-component": "^0.2.1",
     "react-paypal-button-v2": "^2.6.2",
     "react-paypal-express-checkout": "^1.0.5",
